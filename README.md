@@ -1,4 +1,4 @@
-# Active Directory Lab
+# Detection Lab
 
 ## Objective
 
